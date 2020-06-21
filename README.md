@@ -8,8 +8,8 @@ All definations below associated with Decaf language follows the defination: [De
 </br>
 This project has accomplished:
 * Implement a lex program that is a lexical analyzer for the Decaf language.
-* Porgrammed a parser for the Decaf language that produces an abstract syntax tree for valid Decaf programs
-* Implement a Symbol Table that can keep track of Variables and Methods in Decaf
+* Porgrammed a parser for the Decaf language that produces an abstract syntax tree for given input token sequence
+* Implement a Symbol Table with hash table that can keep track of Variables and Methods in Decaf
 * Provide Code Generation for Decaf Expressions for following
   * Arithmetic and Boolean expressions
   * Function calls
